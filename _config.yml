@@ -1,5 +1,5 @@
-url: http://camallen.github.io/cjd/
-baseurl:
+url: http://camallen.github.io
+baseurl: /cjd
 
 # Site settings
 title: Cairns Juice & Drinks
