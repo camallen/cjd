@@ -676,6 +676,11 @@ section h3.section-subheading {
     margin-right: auto;
 }
 
+.autosize-img {
+  width:100%;
+  height:auto;
+}
+
 .team-member {
     margin-bottom: 50px;
     text-align: center;
