@@ -47,6 +47,14 @@ ul.grid li {
   break-inside: avoid-column;         /* IE 11 */
 }
 
+ul.about {
+  font-size: 1.5em;
+  list-style-type: none;
+}
+ul.about li {
+  padding-bottom: 1em;
+}
+
 @media screen and (min-width: 320px) and (max-width: 568px) {
   ul.grid {
     columns: 2;
@@ -62,6 +70,9 @@ ul.grid li {
   }
   body > section {
     padding: 70px 0;
+  }
+  ul.about {
+    font-size: 1.2em;
   }
 }
 
