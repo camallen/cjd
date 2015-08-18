@@ -317,6 +317,14 @@ fieldset[disabled] .btn-xl.active {
 header {
     text-align: center;
     color: #000;
+    /*background-attachment: scroll;
+    background-image: url(img/cairns-bg.jpg);
+    background-position: center center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;*/
 }
 
 header img {
