@@ -10,6 +10,10 @@ Agency theme based on [Agency bootstrap theme ](http://startbootstrap.com/templa
 0. Using ruby 2.4 at least you can run a local dev server using
   + `bundle exec jekyll serve`
 
+# Deployment
+
+1. Commit to the gh-pages branch and deploy to that branch :tada:
+
 ###Portfolio
 
 Portfolio projects are in '/_posts'
