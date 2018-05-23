@@ -5,6 +5,11 @@ Agency theme based on [Agency bootstrap theme ](http://startbootstrap.com/templa
 
 # How to use
 
+1. Install the gem deps
+  + `bundle install`
+0. Using ruby 2.4 at least you can run a local dev server using
+  + `bundle exec jekyll serve`
+
 ###Portfolio
 
 Portfolio projects are in '/_posts'
